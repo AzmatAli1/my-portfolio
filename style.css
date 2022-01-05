@@ -2,26 +2,24 @@ body{
     font-family: 'Poppins', sans-serif;
     margin-left: 10%;
 }
-.two-width{
-    border-left: 2px;
-}
 h1{
     font-size: 50px;
+    text-align: center;
 }
 .orange-color{
     color: orange;
     font-size: 40px;
 }
 .half-width{
-    width: 35%;
-    margin-left: 2;
-    margin-right: 5;
+    width: 50%;
+    margin-left: 1%;
+    margin-right: 6.5%;
+    padding: 2px;
 }
 .half-width img{
     width: 400px;
-    height: none;
-    margin: 10%;
-    margin: 
+    height: auto;
+    padding-right: 2%;
 }
 .link-button{
     text-decoration: none;
@@ -36,4 +34,31 @@ h1{
 .web-dev{
     background-image: url(images/person);
     background-repeat: no-repeat;
+}
+.class-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 3px;
+    padding-left: 5px;
+    border-left: 1px;
+
+}
+#first-part{
+    border-image: linear-gradient();
+    border-image: slice;
+    border-radius: 10px;
+}
+#second-part{
+    border-image: linear-gradient();
+    border-image: slice;
+    border-radius: 10px;
+}
+}
+#third-part{
+    border-image: linear-gradient();
+    border-image: slice;
+    border-radius: 10px;
+}
 }

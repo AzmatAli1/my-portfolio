@@ -1,7 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10%;
+}
+.two-width{
+    border-left: 2px;
+}
 h1{
     font-size: 50px;
 }
 .orange-color{
     color: orange;
     font-size: 40px;
+}
+.half-width{
+    width: 35%;
+    margin-left: 2;
+    margin-right: 5;
+}
+.half-width img{
+    width: 400px;
+    height: none;
+    margin: 10%;
+    margin: 
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(Red, yellow);
+    border-radius: 5px;
+    padding: 10px 40px;
+    color: white;
+}
+.flexable-container{
+    display: flex;
+}
+.web-dev{
+    background-image: url(images/person);
+    background-repeat: no-repeat;
 }

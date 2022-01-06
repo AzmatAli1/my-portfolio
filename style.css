@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 10%;
+    margin-left: 0%;
 }
 h1{
     font-size: 50px;
@@ -13,7 +13,7 @@ h1{
     width: 50%;
     margin-left: 1%;
     margin-right: 6.5%;
-    padding: 2px;
+    padding: 50px;
 }
 .mission-name{
     text-align: center;
@@ -82,4 +82,9 @@ h1{
 }
 .margin-name{
     margin-top: 100px;
+}
+footer{
+    text-align: center;
+    color:white;
+    background-color: rgba(0, 0, 0, 0.856);
 }

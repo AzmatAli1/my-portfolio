@@ -7,13 +7,16 @@ h1{
 }
 .orange-color{
     color: orange;
-    font-size: 40px;
+    font-size: 49px;
 }
 .half-width{
     width: 50%;
     margin-left: 1%;
     margin-right: 6.5%;
     padding: 50px;
+}
+.two-with{
+    line-height: 30px;
 }
 .mission-name{
     text-align: center;
@@ -79,7 +82,7 @@ h1{
 }
 #written-part{
     border-image: linear-gradient();
-    font-size: 16px;
+    font-size: 16px;                          
 }
 .margin-name{
     margin-top: 100px;

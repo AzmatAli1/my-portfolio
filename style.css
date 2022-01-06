@@ -120,7 +120,9 @@ h1{
 }
 .stay-safe{
     text-align: center;
-    color:rgb(255, 0, 149)
+    color:rgb(255, 0, 149);
+    font-size: 80px;
+    
 }
 footer{
     text-align: center;

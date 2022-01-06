@@ -4,6 +4,14 @@ body{
 }
 h1{
     font-size: 50px;
+    line-height: 3rem;
+    padding-left: 10px;
+    
+    
+}
+.vertical{
+    border-left: 3px solid red;
+    border-radius:3px;
 }
 .orange-color{
     color: orange;
@@ -86,6 +94,9 @@ h1{
 }
 .margin-name{
     margin-top: 100px;
+}
+.corona-application{
+    text-align: center;
 }
 footer{
     text-align: center;

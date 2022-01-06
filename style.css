@@ -95,6 +95,14 @@ h1{
 .margin-name{
     margin-top: 100px;
 }
+.corona-details{
+    background-color: rgba(137, 43, 226, 0.884);
+    font-size: 16px;
+    text-align: center;
+}
+.important-tropics{
+    color: rgb(255, 0, 149);
+}
 .corona-application{
     text-align: center;
 }

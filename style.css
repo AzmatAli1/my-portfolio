@@ -95,6 +95,12 @@ h1{
 .margin-name{
     margin-top: 100px;
 }
+.right-fact{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: bottom right;
+}
 .corona-details{
     background-color: rgba(137, 43, 226, 0.884);
     font-size: 16px;
@@ -105,6 +111,16 @@ h1{
 }
 .corona-application{
     text-align: center;
+}
+.dev-out{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 260px auto;
+}
+.stay-safe{
+    text-align: center;
+    color:rgb(255, 0, 149)
 }
 footer{
     text-align: center;
